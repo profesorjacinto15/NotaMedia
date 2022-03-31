@@ -2,6 +2,10 @@ package NotaMedia;
 
 import java.util.Scanner;
 
+/**
+ * Clase que Calcula la nota media
+ */
+
 public class NotaMedia {
 	
 	public static void main (String args[]) {
