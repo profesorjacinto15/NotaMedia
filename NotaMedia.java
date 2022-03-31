@@ -7,6 +7,10 @@ import java.util.Scanner;
  */
 
 public class NotaMedia {
+
+	/**
+	 * Métod main donde realizamos el cálculo de la nota media
+	 */
 	
 	public static void main (String args[]) {
 
